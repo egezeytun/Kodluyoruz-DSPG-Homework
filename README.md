@@ -1,3 +1,3 @@
-# DSPG-Homework
+### DSPG-Homework
 
-# Consists homework done during DSPG's Kodluyoruz Bootcamp.
+#Consists homework done during DSPG's Kodluyoruz Bootcamp.
